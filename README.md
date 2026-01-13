@@ -26,12 +26,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img align="left" alt="Excel" title="Microsoft Excel" width="30px"
-     style="margin-right: 10px; filter: invert(33%) sepia(95%) saturate(748%) hue-rotate(94deg) brightness(92%) contrast(96%);"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" />
-     <img align="left" alt="Power BI" title="Power BI" width="30px"
-     style="margin-right: 10px; filter: invert(72%) sepia(91%) saturate(748%) hue-rotate(2deg) brightness(103%) contrast(101%);"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" />
 </div>
 
 ###
